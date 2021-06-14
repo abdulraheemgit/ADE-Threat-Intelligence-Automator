@@ -11,4 +11,7 @@ This tool will
   - send the sorted files to relevet isp
   - creates a summary report
 
+Usage:
+python2 ADE.py
+
 If you need any clarification please feel free to contact abdulraheemedu@gmail.com
