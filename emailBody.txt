@@ -1,0 +1,14 @@
+//do not change or add anything to the below line 'Hi'
+Hi
+//you can edit from here
+
+We have received a list of compromised IP addresses from our international counterparts.
+These IP addresses are used by bonets for malicious purpose.
+The IP addresses include IPs from your IP range as well.
+
+Appreciate if you could take necessary security measures to safeguard your network and users.
+IP details are attached here with.
+
+Best Regards,
+
+CERT Team.
