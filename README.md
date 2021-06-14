@@ -1,5 +1,6 @@
 # ADE-Threat-Intelligence-Disaminator
--- A handy tool for the CERT community. --
+// A handy tool for the CERT community. //
+
 This tool will aquire data from APCERT Data Exchange (ADE) and dissaminate the information to the relevent authority.
 
 
